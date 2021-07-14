@@ -1,0 +1,7 @@
+nro45\_merge.merge module
+=========================
+
+.. automodule:: nro45_merge.merge
+   :members:
+   :undoc-members:
+   :show-inheritance:

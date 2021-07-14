@@ -1,0 +1,7 @@
+nro45\_merge.correlator module
+==============================
+
+.. automodule:: nro45_merge.correlator
+   :members:
+   :undoc-members:
+   :show-inheritance:

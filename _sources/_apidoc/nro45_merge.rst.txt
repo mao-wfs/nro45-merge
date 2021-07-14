@@ -1,0 +1,21 @@
+nro45\_merge package
+====================
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 4
+
+   nro45_merge.accelerometer
+   nro45_merge.correlator
+   nro45_merge.merge
+   nro45_merge.weather
+
+Module contents
+---------------
+
+.. automodule:: nro45_merge
+   :members:
+   :undoc-members:
+   :show-inheritance:

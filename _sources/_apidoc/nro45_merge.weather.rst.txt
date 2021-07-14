@@ -1,0 +1,7 @@
+nro45\_merge.weather module
+===========================
+
+.. automodule:: nro45_merge.weather
+   :members:
+   :undoc-members:
+   :show-inheritance:
